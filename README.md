@@ -25,3 +25,13 @@
   * [Bubble Sort](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/BubbleSort/) ( [C](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/BubbleSort/C) )
   * [Merge Sort](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/MergeSort/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/MergeSort/C%2B%2B) )
   * [Quick Sort](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/QuickSort/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/QuickSort/C%2B%2B) )
+  
+  
+### Data Structures
+* [Basic Data Structures](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures)
+  * [Linked List](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures/LinkedList/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures/LinkedList/C%2B%2B) )
+  * [Vector](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures/Vector/) ( [JAVA](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures/Vector/Java) )
+  
+* [Trees](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees)
+  * [Binary Search Tree](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/BinarySearchTree/) ( [JAVA](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/BinarySearchTree/Java) )
+  * [Trie](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/Trie/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/Trie/C%2B%2B) )
