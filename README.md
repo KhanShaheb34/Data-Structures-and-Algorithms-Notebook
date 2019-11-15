@@ -53,3 +53,7 @@
 - [Trees](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees)
   - [Binary Search Tree](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/BinarySearchTree/) ( [JAVA](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/BinarySearchTree/Java) )
   - [Trie](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/Trie/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/Trie/C%2B%2B) )
+
+## Contributors (Direct and Indirect)
+
+- [Shaswata Das](https://github.com/shaswata56/)
