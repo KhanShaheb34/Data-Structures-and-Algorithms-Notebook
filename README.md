@@ -11,8 +11,16 @@
 ### Algorithms
 
 - [Dynamic Programming (DP)](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP)
-  - [Levenshtein Distance](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LevenshteinDistance/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LevenshteinDistance/C%2B%2B) )
-  - [Longest Common SubSequence](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestCommonSubSequence/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestCommonSubSequence/C%2B%2B) )
+  - [Coin Change](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange) ( [C](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/C), [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/C%2B%2B) )
+  * [Levenshtein Distance](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LevenshteinDistance/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LevenshteinDistance/C%2B%2B) )
+  * [Longest Common SubSequence](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestCommonSubSequence/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestCommonSubSequence/C%2B%2B) )
+  * [Longest Increasing Subsequence](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/C%2B%2B) )
+  * [Matrix Chain Multiplication](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/MatrixChainMultiplication/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/MatrixChainMultiplication/C%2B%2B) )
+
+* [Hashing](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing)
+  - [Cuckoo Hashing](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing/CuckooHashing/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing/CuckooHashing/C%2B%2B) )
+  - [Knuth Multiplicative Quadratic Hashing](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing/KnuthMultiplicativeQuadraticHashing/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing/KnuthMultiplicativeQuadraticHashing/C%2B%2B) )
+
 - [Math](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths)
 
   - [Chinese Remainder Theorem](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths/ChineseRemainderTheorem/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths/ChineseRemainderTheorem/C%2B%2B) )
