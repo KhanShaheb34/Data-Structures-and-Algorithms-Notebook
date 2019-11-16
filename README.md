@@ -55,7 +55,7 @@
   - [Trie](/Trees/Trie/) ( [C++](/Trees/Trie/C%2B%2B) )
   
   
-### [Numerical Analysis](/NumericalAnalysis)
+### Numerical Analysis
 - [Differential Equations](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/NumericalAnalysis/DifferentialEquations)
   - [Eular's Method](/NumericalAnalysis/DifferentialEquations/EularsMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/EularsMethod/Octave) )
   - [Runge Kutta Method](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/Octave) )
