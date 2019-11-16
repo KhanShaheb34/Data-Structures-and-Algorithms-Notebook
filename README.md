@@ -73,4 +73,3 @@
 ## Contributors (Direct and Indirect)
 - [Shaswata Das](https://github.com/shaswata56/)
 - [Rakibul Ranak](https://github.com/RakibulRanak)
-- [Mainul Islam Tanvir](https://github.com/dr_thrax)
