@@ -11,7 +11,6 @@
 ### Algorithms
 
 - [Dynamic Programming (DP)](/Algorithms/DP)
-
   - [Coin Change](/Algorithms/DP/CoinChange) - [Coin Change With Minimum Coins](/Algorithms/DP/CoinChange/CoinChangeWithMinimumCoin/) ( [C++](/Algorithms/DP/CoinChange/CoinChangeWithMinimumCoin/C%2B%2B) )
   - [Coin Change](/Algorithms/DP/CoinChange) - [Maximum Number of Ways of Coin Change](/Algorithms/DP/CoinChange/CoinChangeMaximumWays/) ( [C++](/Algorithms/DP/CoinChange/CoinChangeMaximumWays/C%2B%2B) )
   - [Coin Change](/Algorithms/DP/CoinChange) - [Maximum Number of Ways of Coin Change 2D](/Algorithms/DP/CoinChange/CoinChange2DMaximumWays/) ( [C++](/Algorithms/DP/CoinChange/CoinChange2DMaximumWays/C%2B%2B) )
@@ -24,36 +23,37 @@
   - [Longest Increasing Subsequence](/Algorithms/DP/LongestIncreasingSubsequence/) - [Even](/Algorithms/DP/LongestIncreasingSubsequence/Even/) ( [C++](/Algorithms/DP/LongestIncreasingSubsequence/Alternative/C%2B%2B) )
   - [Matrix Chain Multiplication](/Algorithms/DP/MatrixChainMultiplication/) ( [C++](/Algorithms/DP/MatrixChainMultiplication/C%2B%2B) )
 
-- [Hashing](/Algorithms/Hashing)
 
+- [Hashing](/Algorithms/Hashing)
   - [Cuckoo Hashing](/Algorithms/Hashing/CuckooHashing/) ( [C++](/Algorithms/Hashing/CuckooHashing/C%2B%2B) )
   - [Knuth Multiplicative Quadratic Hashing](/Algorithms/Hashing/KnuthMultiplicativeQuadraticHashing/) ( [C++](/Algorithms/Hashing/KnuthMultiplicativeQuadraticHashing/C%2B%2B) )
 
-- [Math](/Algorithms/Maths)
 
+- [Math](/Algorithms/Maths)
   - [Chinese Remainder Theorem](/Algorithms/Maths/ChineseRemainderTheorem/) ( [C++](/Algorithms/Maths/ChineseRemainderTheorem/C%2B%2B) )
   - [EuclideanAlgorithms](/Algorithms/Maths/EuclideanAlgorithms/) ( [C++](/Algorithms/Maths/EuclideanAlgorithms/C%2B%2B) )
   - [Modular Multiplicative Inverse](/Algorithms/Maths/ModularMultiplicativeInverse/) ( [C++](/Algorithms/Maths/ModularMultiplicativeInverse/C%2B%2B) )
 
+
 - [PatternMatching](/Algorithms/PatternMatching)
   - [First Pattern Matching](/Algorithms/PatternMatching/FirstPatternMatching/) ( [C](/Algorithms/PatternMatching/FirstPatternMatching/C) )
+  - [SecondPatternMatching](/Algorithms/PatternMatching/SecondPatternMatching/) ( [C](/Algorithms/PatternMatching/SecondPatternMatching/C) )
 
-* [SecondPatternMatching](/Algorithms/PatternMatching/SecondPatternMatching/) ( [C](/Algorithms/PatternMatching/SecondPatternMatching/C) )
 
 - [Searching](/Algorithms/Searching)
-
   - [Binary Search](/Algorithms/Searching/BinarySearch/) ( [C](/Algorithms/Searching/BinarySearch/C) )
   - [Linear Search](/Algorithms/Searching/LinearSearch/) ( [C](/Algorithms/Searching/LinearSearch/C) )
+
 
 - [Sorting](/Algorithms/Sorting)
   - [Bubble Sort](/Algorithms/Sorting/BubbleSort/) ( [C](/Algorithms/Sorting/BubbleSort/C) )
   - [Merge Sort](/Algorithms/Sorting/MergeSort/) ( [C++](/Algorithms/Sorting/MergeSort/C%2B%2B) )
   - [Quick Sort](/Algorithms/Sorting/QuickSort/) ( [C++](/Algorithms/Sorting/QuickSort/C%2B%2B) )
 
+
 ### Data Structures
 
 - [Basic Data Structures](/DataStructures/BasicDataStructures)
-
   - [Linked List](/DataStructures/BasicDataStructures/LinkedList/) ( [C++](/DataStructures/BasicDataStructures/LinkedList/C%2B%2B) )
   - [Vector](/DataStructures/BasicDataStructures/Vector/) ( [JAVA](/DataStructures/BasicDataStructures/Vector/Java) )
 
@@ -61,7 +61,8 @@
   - [Binary Search Tree](/DataStructures/Trees/BinarySearchTree/) ( [JAVA](/DataStructures/Trees/BinarySearchTree/Java) )
   - [Trie](/DataStructures/Trees/Trie/) ( [C++](/DataStructures/Trees/Trie/C%2B%2B) )
 
-## Contributors (Direct and Indirect)
 
+
+## Contributors (Direct and Indirect)
 - [Shaswata Das](https://github.com/shaswata56/)
 - [Rakibul Ranak](https://github.com/RakibulRanak)
