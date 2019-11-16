@@ -9,7 +9,6 @@
 ## সূচিপত্র:
 
 ### Algorithms
-
 - [Dynamic Programming (DP)](/DP)
   - [Coin Change](/DP/CoinChange) - [Coin Change With Minimum Coins](/DP/CoinChange/CoinChangeWithMinimumCoin/) ( [C++](/DP/CoinChange/CoinChangeWithMinimumCoin/C%2B%2B) )
   - [Coin Change](/DP/CoinChange) - [Maximum Number of Ways of Coin Change](/DP/CoinChange/CoinChangeMaximumWays/) ( [C++](/DP/CoinChange/CoinChangeMaximumWays/C%2B%2B) )
@@ -23,27 +22,22 @@
   - [Longest Increasing Subsequence](/DP/LongestIncreasingSubsequence/) - [Even](/DP/LongestIncreasingSubsequence/Even/) ( [C++](/DP/LongestIncreasingSubsequence/Alternative/C%2B%2B) )
   - [Matrix Chain Multiplication](/DP/MatrixChainMultiplication/) ( [C++](/DP/MatrixChainMultiplication/C%2B%2B) )
 
-
 - [Hashing](/Hashing)
   - [Cuckoo Hashing](/Hashing/CuckooHashing/) ( [C++](/Hashing/CuckooHashing/C%2B%2B) )
   - [Knuth Multiplicative Quadratic Hashing](/Hashing/KnuthMultiplicativeQuadraticHashing/) ( [C++](/Hashing/KnuthMultiplicativeQuadraticHashing/C%2B%2B) )
-
 
 - [Math](/Maths)
   - [Chinese Remainder Theorem](/Maths/ChineseRemainderTheorem/) ( [C++](/Maths/ChineseRemainderTheorem/C%2B%2B) )
   - [EuclideanAlgorithms](/Maths/EuclideanAlgorithms/) ( [C++](/Maths/EuclideanAlgorithms/C%2B%2B) )
   - [Modular Multiplicative Inverse](/Maths/ModularMultiplicativeInverse/) ( [C++](/Maths/ModularMultiplicativeInverse/C%2B%2B) )
 
-
 - [PatternMatching](/PatternMatching)
   - [First Pattern Matching](/PatternMatching/FirstPatternMatching/) ( [C](/PatternMatching/FirstPatternMatching/C) )
   - [SecondPatternMatching](/PatternMatching/SecondPatternMatching/) ( [C](/PatternMatching/SecondPatternMatching/C) )
 
-
 - [Searching](/Searching)
   - [Binary Search](/Searching/BinarySearch/) ( [C](/Searching/BinarySearch/C) )
   - [Linear Search](/Searching/LinearSearch/) ( [C](/Searching/LinearSearch/C) )
-
 
 - [Sorting](/Sorting)
   - [Bubble Sort](/Sorting/BubbleSort/) ( [C](/Sorting/BubbleSort/C) )
@@ -52,7 +46,6 @@
 
 
 ### Data Structures
-
 - [Basic Data Structures](/BasicDataStructures)
   - [Linked List](/BasicDataStructures/LinkedList/) ( [C++](/BasicDataStructures/LinkedList/C%2B%2B) )
   - [Vector](/BasicDataStructures/Vector/) ( [JAVA](/BasicDataStructures/Vector/Java) )
@@ -60,7 +53,21 @@
 - [Trees](/Trees)
   - [Binary Search Tree](/Trees/BinarySearchTree/) ( [JAVA](/Trees/BinarySearchTree/Java) )
   - [Trie](/Trees/Trie/) ( [C++](/Trees/Trie/C%2B%2B) )
-
+  
+  
+### [Numerical Analysis](/NumericalAnalysis)
+- [Differential Equations](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/NumericalAnalysis/DifferentialEquations)
+  - [Eular's Method](/NumericalAnalysis/DifferentialEquations/EularsMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/EularsMethod/Octave) )
+  - [Runge Kutta Method](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/Octave) )
+  
+- [Root Finding Methods](/NumericalAnalysis/RootFindingMethods)
+  - [Bisection Method](/NumericalAnalysis/RootFindingMethods/BisectionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/BisectionMethod/Octave) )
+  - [False Position Method](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/Octave) )
+  - [Newton Raphson's Method](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/Octave) )
+  
+- [System of Linear Equations](/NumericalAnalysis/SystemOfLinearEquations)
+  - [Gauss Jacobi Method](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/Octave) )
+  - [Gauss Seidel Method](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/Octave) )
 
 
 ## Contributors (Direct and Indirect)
