@@ -9,50 +9,59 @@
 ## সূচিপত্র:
 
 ### Algorithms
-* [Dynamic Programming (DP)](/Algorithms/DP)
-  - [Coin Change](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange) - [Coin Change With Minimum Coins](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChangeWithMinimumCoin/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChangeWithMinimumCoin/C%2B%2B) )
-  - [Coin Change](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange) - [Maximum Number of Ways of Coin Change](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChangeMaximumWays/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChangeMaximumWays/C%2B%2B) )
-  - [Coin Change](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange) - [Maximum Number of Ways of Coin Change 2D](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChange2DMaximumWays/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChange2DMaximumWays/C%2B%2B) )
-  - [Ford Fulkerson Algorithm](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/FordFulkersonAlgorithm/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/FordFulkersonAlgorithm/C%2B%2B) )
-  - [Levenshtein Distance](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LevenshteinDistance/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LevenshteinDistance/C%2B%2B) )
-  - [Longest Common SubSequence](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestCommonSubSequence/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestCommonSubSequence/C%2B%2B) )
-  - [Longest Increasing Subsequence](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/C%2B%2B) )
-  - [Longest Increasing Subsequence](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/) - [Alternative](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/Alternative/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/Alternative/C%2B%2B) )
-  - [Longest Increasing Subsequence](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/) - [Consecutive](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/Alternative/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/Consecutive/C%2B%2B) )
-  - [Longest Increasing Subsequence](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/) - [Even](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/Even/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/LongestIncreasingSubsequence/Alternative/C%2B%2B) )
-  - [Matrix Chain Multiplication](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/MatrixChainMultiplication/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/MatrixChainMultiplication/C%2B%2B) )
 
-* [Hashing](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing)
-  - [Cuckoo Hashing](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing/CuckooHashing/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing/CuckooHashing/C%2B%2B) )
-  - [Knuth Multiplicative Quadratic Hashing](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing/KnuthMultiplicativeQuadraticHashing/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Hashing/KnuthMultiplicativeQuadraticHashing/C%2B%2B) )
+- [Dynamic Programming (DP)](/Algorithms/DP)
 
-* [Math](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths)
-  - [Chinese Remainder Theorem](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths/ChineseRemainderTheorem/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths/ChineseRemainderTheorem/C%2B%2B) )
-  - [EuclideanAlgorithms](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths/EuclideanAlgorithms/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths/EuclideanAlgorithms/C%2B%2B) )
-  - [Modular Multiplicative Inverse](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths/ModularMultiplicativeInverse/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Maths/ModularMultiplicativeInverse/C%2B%2B) )
+  - [Coin Change](/Algorithms/DP/CoinChange) - [Coin Change With Minimum Coins](/Algorithms/DP/CoinChange/CoinChangeWithMinimumCoin/) ( [C++](/Algorithms/DP/CoinChange/CoinChangeWithMinimumCoin/C%2B%2B) )
+  - [Coin Change](/Algorithms/DP/CoinChange) - [Maximum Number of Ways of Coin Change](/Algorithms/DP/CoinChange/CoinChangeMaximumWays/) ( [C++](/Algorithms/DP/CoinChange/CoinChangeMaximumWays/C%2B%2B) )
+  - [Coin Change](/Algorithms/DP/CoinChange) - [Maximum Number of Ways of Coin Change 2D](/Algorithms/DP/CoinChange/CoinChange2DMaximumWays/) ( [C++](/Algorithms/DP/CoinChange/CoinChange2DMaximumWays/C%2B%2B) )
+  - [Ford Fulkerson Algorithm](/Algorithms/DP/FordFulkersonAlgorithm/) ( [C++](/Algorithms/DP/FordFulkersonAlgorithm/C%2B%2B) )
+  - [Levenshtein Distance](/Algorithms/DP/LevenshteinDistance/) ( [C++](/Algorithms/DP/LevenshteinDistance/C%2B%2B) )
+  - [Longest Common SubSequence](/Algorithms/DP/LongestCommonSubSequence/) ( [C++](/Algorithms/DP/LongestCommonSubSequence/C%2B%2B) )
+  - [Longest Increasing Subsequence](/Algorithms/DP/LongestIncreasingSubsequence/) ( [C++](/Algorithms/DP/LongestIncreasingSubsequence/C%2B%2B) )
+  - [Longest Increasing Subsequence](/Algorithms/DP/LongestIncreasingSubsequence/) - [Alternative](/Algorithms/DP/LongestIncreasingSubsequence/Alternative/) ( [C++](/Algorithms/DP/LongestIncreasingSubsequence/Alternative/C%2B%2B) )
+  - [Longest Increasing Subsequence](/Algorithms/DP/LongestIncreasingSubsequence/) - [Consecutive](/Algorithms/DP/LongestIncreasingSubsequence/Alternative/) ( [C++](/Algorithms/DP/LongestIncreasingSubsequence/Consecutive/C%2B%2B) )
+  - [Longest Increasing Subsequence](/Algorithms/DP/LongestIncreasingSubsequence/) - [Even](/Algorithms/DP/LongestIncreasingSubsequence/Even/) ( [C++](/Algorithms/DP/LongestIncreasingSubsequence/Alternative/C%2B%2B) )
+  - [Matrix Chain Multiplication](/Algorithms/DP/MatrixChainMultiplication/) ( [C++](/Algorithms/DP/MatrixChainMultiplication/C%2B%2B) )
 
-* [PatternMatching](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/PatternMatching)
-  - [First Pattern Matching](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/PatternMatching/FirstPatternMatching/) ( [C](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/PatternMatching/FirstPatternMatching/C) )
- - [SecondPatternMatching](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/PatternMatching/SecondPatternMatching/) ( [C](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/PatternMatching/SecondPatternMatching/C) )
+- [Hashing](/Algorithms/Hashing)
 
-* [Searching](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Searching)
-  - [Binary Search](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Searching/BinarySearch/) ( [C](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Searching/BinarySearch/C) )
-  - [Linear Search](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Searching/LinearSearch/) ( [C](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Searching/LinearSearch/C) )
+  - [Cuckoo Hashing](/Algorithms/Hashing/CuckooHashing/) ( [C++](/Algorithms/Hashing/CuckooHashing/C%2B%2B) )
+  - [Knuth Multiplicative Quadratic Hashing](/Algorithms/Hashing/KnuthMultiplicativeQuadraticHashing/) ( [C++](/Algorithms/Hashing/KnuthMultiplicativeQuadraticHashing/C%2B%2B) )
 
-* [Sorting](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting)
-  - [Bubble Sort](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/BubbleSort/) ( [C](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/BubbleSort/C) )
-  - [Merge Sort](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/MergeSort/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/MergeSort/C%2B%2B) )
-  - [Quick Sort](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/QuickSort/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/Sorting/QuickSort/C%2B%2B) )
+- [Math](/Algorithms/Maths)
+
+  - [Chinese Remainder Theorem](/Algorithms/Maths/ChineseRemainderTheorem/) ( [C++](/Algorithms/Maths/ChineseRemainderTheorem/C%2B%2B) )
+  - [EuclideanAlgorithms](/Algorithms/Maths/EuclideanAlgorithms/) ( [C++](/Algorithms/Maths/EuclideanAlgorithms/C%2B%2B) )
+  - [Modular Multiplicative Inverse](/Algorithms/Maths/ModularMultiplicativeInverse/) ( [C++](/Algorithms/Maths/ModularMultiplicativeInverse/C%2B%2B) )
+
+- [PatternMatching](/Algorithms/PatternMatching)
+  - [First Pattern Matching](/Algorithms/PatternMatching/FirstPatternMatching/) ( [C](/Algorithms/PatternMatching/FirstPatternMatching/C) )
+
+* [SecondPatternMatching](/Algorithms/PatternMatching/SecondPatternMatching/) ( [C](/Algorithms/PatternMatching/SecondPatternMatching/C) )
+
+- [Searching](/Algorithms/Searching)
+
+  - [Binary Search](/Algorithms/Searching/BinarySearch/) ( [C](/Algorithms/Searching/BinarySearch/C) )
+  - [Linear Search](/Algorithms/Searching/LinearSearch/) ( [C](/Algorithms/Searching/LinearSearch/C) )
+
+- [Sorting](/Algorithms/Sorting)
+  - [Bubble Sort](/Algorithms/Sorting/BubbleSort/) ( [C](/Algorithms/Sorting/BubbleSort/C) )
+  - [Merge Sort](/Algorithms/Sorting/MergeSort/) ( [C++](/Algorithms/Sorting/MergeSort/C%2B%2B) )
+  - [Quick Sort](/Algorithms/Sorting/QuickSort/) ( [C++](/Algorithms/Sorting/QuickSort/C%2B%2B) )
 
 ### Data Structures
-* [Basic Data Structures](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures)
-  - [Linked List](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures/LinkedList/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures/LinkedList/C%2B%2B) )
-  - [Vector](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures/Vector/) ( [JAVA](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/BasicDataStructures/Vector/Java) )
 
-* [Trees](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees)
-  - [Binary Search Tree](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/BinarySearchTree/) ( [JAVA](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/BinarySearchTree/Java) )
-  - [Trie](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/Trie/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/DataStructures/Trees/Trie/C%2B%2B) )
+- [Basic Data Structures](/DataStructures/BasicDataStructures)
+
+  - [Linked List](/DataStructures/BasicDataStructures/LinkedList/) ( [C++](/DataStructures/BasicDataStructures/LinkedList/C%2B%2B) )
+  - [Vector](/DataStructures/BasicDataStructures/Vector/) ( [JAVA](/DataStructures/BasicDataStructures/Vector/Java) )
+
+- [Trees](/DataStructures/Trees)
+  - [Binary Search Tree](/DataStructures/Trees/BinarySearchTree/) ( [JAVA](/DataStructures/Trees/BinarySearchTree/Java) )
+  - [Trie](/DataStructures/Trees/Trie/) ( [C++](/DataStructures/Trees/Trie/C%2B%2B) )
 
 ## Contributors (Direct and Indirect)
-* [Shaswata Das](https://github.com/shaswata56/)
-* [Rakibul Ranak](https://github.com/RakibulRanak)
+
+- [Shaswata Das](https://github.com/shaswata56/)
+- [Rakibul Ranak](https://github.com/RakibulRanak)
