@@ -73,3 +73,6 @@
 ## Contributors (Direct and Indirect)
 - [Shaswata Das](https://github.com/shaswata56/)
 - [Rakibul Ranak](https://github.com/RakibulRanak)
+
+## License
+[GNU GENERAL PUBLIC LICENSE](/LICENSE)
