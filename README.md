@@ -9,7 +9,7 @@
 ## সূচিপত্র:
 
 ### Algorithms
-* [Dynamic Programming (DP)](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP)
+* [Dynamic Programming (DP)](/Algorithms/DP)
   - [Coin Change](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange) - [Coin Change With Minimum Coins](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChangeWithMinimumCoin/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChangeWithMinimumCoin/C%2B%2B) )
   - [Coin Change](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange) - [Maximum Number of Ways of Coin Change](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChangeMaximumWays/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChangeMaximumWays/C%2B%2B) )
   - [Coin Change](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange) - [Maximum Number of Ways of Coin Change 2D](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChange2DMaximumWays/) ( [C++](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/Algorithms/DP/CoinChange/CoinChange2DMaximumWays/C%2B%2B) )
