@@ -1,13 +1,8 @@
-// A Dynamic Programming based C++ program to find minimum of coins
-// to make a given change V
 #include<bits/stdc++.h>
 using namespace std;
 
-// m is size of coins array (number of different coins)
 int minCoins(int coins[], int m, int V)
 {
-    // table[i] will be storing the minimum number of coins
-    // required for i value. So table[V] will have result
     int table[V + 1];
 
     // Base case (If given value V is 0)
@@ -31,14 +26,10 @@ int minCoins(int coins[], int m, int V)
                 if (sub_res != INT_MAX && sub_res + 1 < table[i])
                     table[i] = sub_res + 1;
             }
-      /*  for (int x = 0; x <= V; x++)
-            cout<<table[x]<<" ";
-        cout<<endl;*/
     }
     return table[V];
 }
 
-// Driver program to test above function
 int main()
 {
     int coins[] = {9, 6, 5};
