@@ -81,7 +81,6 @@
 ## Contributors (Direct and Indirect)
 - [Shaswata Das](https://github.com/shaswata56/)
 - [Rakibul Ranak](https://github.com/RakibulRanak)
-- [Mehedi Hasan Rumi](https://github.com/mhRumi/)
 
 ## License
 [Do What The Fuck You Want To Public License](/LICENSE)
