@@ -2,7 +2,7 @@
 name: Add Code
 about: যেকোনো ল্যাংগুয়েজ এ যেকোনো অ্যালগোরিদম এর কোড সাবমিট করুন
 title: Add Code
-labels: enhancement, AddCode
+labels: AddCode, enhancement
 assignees: KhanShaheb34
 
 ---
