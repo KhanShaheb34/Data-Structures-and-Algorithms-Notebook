@@ -2,7 +2,7 @@
 name: Add Note
 about: যেকোনো অ্যালগোরিদম এর জন্য নোট সাবমিট করুন
 title: Add Note for an Existing Algorithm
-labels: ''
+labels: 'AddNote'
 assignees: KhanShaheb34
 
 ---
