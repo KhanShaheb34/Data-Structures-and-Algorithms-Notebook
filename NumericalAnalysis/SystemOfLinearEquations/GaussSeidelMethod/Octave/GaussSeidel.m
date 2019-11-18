@@ -1,30 +1,20 @@
-A = [4,1,2,-1; 3,6,-1,2; 2,-1,5,-3; 4,1,-3,-8];
-B = [2; -1; 3; 2];
-n = length(B);
-x = zeros(n,1);
-x(:) = 0;
 
-for it = 1:100
-    conv = true;
-    for i = 1 : n
+function retval = Seidel(A, b)
+  [r c] = size(A);
+  b = b';
+  n = length(b); 
+  x = zeros(n, 1);
+  
+  for iteration = 1:20
+    for i = 1:n
         sum = 0;
-        for j = 1 : n
-            if j ~= i
-                sum += A(i, j)*x(j);
-            end
-        end
-        temp = x(i);
-        x(i) = -1 * (sum - B(i)) / A(i,i);
-        if abs(temp - x(i)) > 1e-6
-            conv = false;
-        end
-    end;
-    if conv
-        break
-    end
-end
-
-disp("Solution: ")
-x
-disp("Iteration: ")
-it
+        for j = 1:n
+          if i ~= j
+          sum = sum + A(i, j)*x(j);
+          endif
+        endfor
+        x(i) = -1/A(i, i) * (sum - b(i));
+      endfor
+    endfor
+retval = [x'];
+endfunction
