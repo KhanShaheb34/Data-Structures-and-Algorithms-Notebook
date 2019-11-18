@@ -20,8 +20,8 @@
 ### Algorithms
 - [Dynamic Programming (DP)](/DP)
   - [Coin Change](/DP/CoinChange) - [Coin Change With Minimum Coins](/DP/CoinChange/CoinChangeWithMinimumCoin/) ( [C++](/DP/CoinChange/CoinChangeWithMinimumCoin/C%2B%2B) )
-  - [Coin Change](/DP/CoinChange) - [Maximum Number of Ways of Coin Change](/DP/CoinChange/CoinChangeMaximumWays/) ( [C++](/DP/CoinChange/CoinChangeMaximumWays/C%2B%2B) )
-  - [Coin Change](/DP/CoinChange) - [Maximum Number of Ways of Coin Change 2D](/DP/CoinChange/CoinChange2DMaximumWays/) ( [C++](/DP/CoinChange/CoinChange2DMaximumWays/C%2B%2B) )
+  - [Coin Change](/DP/CoinChange) - [Number of Ways of Coin Change](/DP/CoinChange/CoinChangeNumberOfWays/) ( [C++](/DP/CoinChange/CoinChangeNumberOfWays/C%2B%2B) )
+  - [Coin Change](/DP/CoinChange) - [Number of Ways of Coin Change 2D](/DP/CoinChange/CoinChangeNumberOfWays2D/) ( [C++](/DP/CoinChange/CoinChangeNumberOfWays2D/C%2B%2B) )
   - [Ford Fulkerson Algorithm](/DP/FordFulkersonAlgorithm/) ( [C++](/DP/FordFulkersonAlgorithm/C%2B%2B) )
   - [Levenshtein Distance](/DP/LevenshteinDistance/) ( [C++](/DP/LevenshteinDistance/C%2B%2B) )
   - [Longest Common SubSequence](/DP/LongestCommonSubSequence/) ( [C++](/DP/LongestCommonSubSequence/C%2B%2B) )
