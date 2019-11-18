@@ -5,11 +5,8 @@ int table [100][100];
 
 int count( int S[], int m, int n )
 {
-
-
     table[0][0] = 1;
-
-
+    
     //we started i from 1 in the loop beacuse we have to use the previous row that is row 0
     //to complete row 1
     //j is from 0 taka to the target taka
@@ -25,11 +22,8 @@ int count( int S[], int m, int n )
         }
     }
 
-
     return table[m][n];
 }
-
-
 
 int main()
 {
