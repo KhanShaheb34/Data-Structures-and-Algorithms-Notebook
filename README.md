@@ -4,7 +4,7 @@
 
 বিঃদ্রঃ এখনো কোন কোড এর জন্য নোট লেখা হয় নি! ধীরে ধীরে করা হবে।
 
-দয়া করে নিজের ইচ্ছেমত কন্ট্রিবিউট করে রিপোজিটরি টাকে উন্নত করুন! কিভাবে কন্ট্রিবিউট করবেন, [এখান থেকে দেখুন](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/blob/master/CONTRIBUTE.md)। ধন্যবাদ!
+দয়া করে নিজের ইচ্ছেমত কন্ট্রিবিউট করে রিপোজিটরি টাকে উন্নত করুন! কিভাবে কন্ট্রিবিউট করবেন, [এখান থেকে দেখুন](/CONTRIBUTING.md)। ধন্যবাদ!
 
 ## সূচিপত্র:
 
@@ -73,4 +73,6 @@
 ## Contributors (Direct and Indirect)
 - [Shaswata Das](https://github.com/shaswata56/)
 - [Rakibul Ranak](https://github.com/RakibulRanak)
-- [Mainul Islam Tanvir](https://github.com/dr_thrax)
+
+## License
+[GNU GENERAL PUBLIC LICENSE](/LICENSE)
