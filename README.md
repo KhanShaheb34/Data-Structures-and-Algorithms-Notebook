@@ -4,7 +4,15 @@
 
 বিঃদ্রঃ এখনো কোন কোড এর জন্য নোট লেখা হয় নি! ধীরে ধীরে করা হবে।
 
-দয়া করে নিজের ইচ্ছেমত কন্ট্রিবিউট করে রিপোজিটরি টাকে উন্নত করুন! কিভাবে কন্ট্রিবিউট করবেন, [এখান থেকে দেখুন](/CONTRIBUTING.md)। ধন্যবাদ!
+দয়া করে নিজের ইচ্ছেমত কন্ট্রিবিউট করে রিপোজিটরি টাকে উন্নত করুন! এখানে দুই ভাবে কন্ট্রিবিউট করতে পারেন! প্রথমত, রিপোজিটরি তে ইস্যু ক্রিয়েট করে সহজেই কন্ট্রিবিউট করতে পারেন! নিম্নোক্ত কাজ গুলো ইস্যু ক্রিয়েট করে করতে পারবেনঃ 
+  - [যেকোনো ল্যাংগুয়েজ এ যেকোনো অ্যালগোরিদম এর কোড সাবমিট করুন][1]
+  - [যেকোনো অ্যালগোরিদম এর জন্য নোট সাবমিট করুন][2]
+  - [কোন অ্যালগরিদম এর কোড বা নোট এ কোন সমস্যা থাকলে এখানে সাবমিট করুন][3]
+  - [কোন অ্যালগরিদম এর কোড বা নোট এর জন্য রিকুয়েস্ট করুন][4]
+  - [প্রশ্ন করুন বা উপদেশ দিন][5]
+
+অথবা, রিপোজিটরি টা ফর্ক করে সরাসরি কন্ট্রিবিউট করতে পারেন! কিভাবে করবেন তা [এখান থেকে](/CONTRIBUTING.md) দেখে নিন! ধন্যবাদ :grin:
+
 
 ## সূচিপত্র:
 
@@ -75,4 +83,12 @@
 - [Rakibul Ranak](https://github.com/RakibulRanak)
 
 ## License
-[GNU GENERAL PUBLIC LICENSE](/LICENSE)
+[Do What The Fuck You Want To Public License](/LICENSE)
+
+
+<!--- Links --->
+[1]:https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/issues/new?assignees=KhanShaheb34&labels=AddCode%2C+enhancement&template=add-code.md&title=Add+Code
+[2]:https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/issues/new?assignees=KhanShaheb34&labels=AddNote%2C+documentation&template=add-note.md&title=Add+Note+for+an+Existing+Algorithm
+[3]:https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/issues/new?assignees=KhanShaheb34&labels=bug&template=other-issues.md&title=Other+Issue
+[4]:https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/issues/new?assignees=KhanShaheb34&labels=&template=request-algorithm-code-or-note.md&title=Request+Code%2FNote
+[5]:https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/issues/new?assignees=KhanShaheb34&labels=question&template=suggestions-or-questions.md&title=Suggestion+or+Question
