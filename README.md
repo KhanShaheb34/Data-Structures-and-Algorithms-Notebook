@@ -56,27 +56,27 @@
 
 ### Data Structures
 - [Basic Data Structures](/BasicDataStructures)
-  - [Linked List](/BasicDataStructures/LinkedList/) ( [C++](/BasicDataStructures/LinkedList/C%2B%2B) )
-  - [Vector](/BasicDataStructures/Vector/) ( [JAVA](/BasicDataStructures/Vector/Java) )
+  - [Linked List](/BasicDataStructures/LinkedList/) ( [C++](/BasicDataStructures/LinkedList/LinkedList.cpp) )
+  - [Vector](/BasicDataStructures/Vector/) ( [JAVA](/BasicDataStructures/Vector/Vector.java) )
 
 - [Trees](/Trees)
   - [Binary Search Tree](/Trees/BinarySearchTree/) ( [JAVA](/Trees/BinarySearchTree/Java) )
-  - [Trie](/Trees/Trie/) ( [C++](/Trees/Trie/C%2B%2B) )
+  - [Trie](/Trees/Trie/) ( [C++](/Trees/Trie/Trie.cpp) )
   
   
 ### Numerical Analysis
 - [Differential Equations](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/NumericalAnalysis/DifferentialEquations)
-  - [Eular's Method](/NumericalAnalysis/DifferentialEquations/EularsMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/EularsMethod/Octave) )
-  - [Runge Kutta Method](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/Octave) )
+  - [Eular's Method](/NumericalAnalysis/DifferentialEquations/EularsMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/EularsMethod/Euler.m) )
+  - [Runge Kutta Method](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/RungeKutta.m) )
   
 - [Root Finding Methods](/NumericalAnalysis/RootFindingMethods)
-  - [Bisection Method](/NumericalAnalysis/RootFindingMethods/BisectionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/BisectionMethod/Octave) )
-  - [False Position Method](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/Octave) )
-  - [Newton Raphson's Method](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/Octave) )
+  - [Bisection Method](/NumericalAnalysis/RootFindingMethods/BisectionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/BisectionMethod/Bisection.m) )
+  - [False Position Method](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/FalsePosition.m) )
+  - [Newton Raphson's Method](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/NewtonRaphson.m) )
   
 - [System of Linear Equations](/NumericalAnalysis/SystemOfLinearEquations)
-  - [Gauss Jacobi Method](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/Octave) )
-  - [Gauss Seidel Method](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/Octave) )
+  - [Gauss Jacobi Method](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/GaussJacobi.m) )
+  - [Gauss Seidel Method](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/GaussSeidel.m) )
 
 
 ## Contributors (Direct and Indirect)
