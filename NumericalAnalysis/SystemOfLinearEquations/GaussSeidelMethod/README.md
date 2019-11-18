@@ -1,4 +1,4 @@
-# Gauss jacobi Method
+# Gauss seidel Method
 ###### Author: [Mehedi Hasan Rumi](https://github.com/mhRumi)
 
 #### Function Arguments
