@@ -85,7 +85,7 @@
 - [Rakibul Ranak](https://github.com/RakibulRanak)
 
 ## License
-[Do What The Fuck You Want To Public License](/LICENSE)
+[GNU PUBLIC LICENSE](/LICENSE)
 
 
 <!--- Links --->
