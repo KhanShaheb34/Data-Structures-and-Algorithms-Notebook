@@ -85,7 +85,7 @@
 - [Rakibul Ranak](https://github.com/RakibulRanak)
 
 ## License
-[GNU PUBLIC LICENSE](/LICENSE)
+[GNU GENERAL PUBLIC LICENSE](/LICENSE)
 
 
 <!--- Links --->
