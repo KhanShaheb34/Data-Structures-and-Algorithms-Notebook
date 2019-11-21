@@ -78,7 +78,7 @@
 - [System of Linear Equations](/NumericalAnalysis/SystemOfLinearEquations)
   - [Gauss Jacobi Method](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/GaussJacobi.m) )
   - [Gauss Seidel Method](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/GaussSeidel.m) )
-  - [Gaussian Elimination Method](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/) ( [C](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/gaussian_elimination.c), [Python](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/gaussian_elimination.py) )
+  - [Gaussian Elimination Method](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/) ( [C](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/gaussian_elimination.c), [Python](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/gaussian_elemination.py) )
 
 
 ## Contributors (Direct and Indirect)
