@@ -66,23 +66,26 @@
   
 ### Numerical Analysis
 - [Differential Equations](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/NumericalAnalysis/DifferentialEquations)
-  - [Eular's Method](/NumericalAnalysis/DifferentialEquations/EularsMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/EularsMethod/Euler.m) )
-  - [Runge Kutta Method](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/RungeKutta.m) )
+  - [Eular's Method](/NumericalAnalysis/DifferentialEquations/EularsMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/EularsMethod/euler_method.m), [Python](/NumericalAnalysis/DifferentialEquations/EularsMethod/euler_method.py) )
+  - [Runge Kutta Method](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/) ( [Octave/Matlab(2nd Order)](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/runga_kutta_2nd_order.m), [Python(4th Order)](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/runga_kutta_4th_order.py) )
+  - [Euler's Method and Runge Kutta Method Visualization](/NumericalAnalysis/DifferentialEquations/Visualization/euler__runga_kutta__visualization.py) ( [Python](/NumericalAnalysis/DifferentialEquations/Visualization/)  )
   
 - [Root Finding Methods](/NumericalAnalysis/RootFindingMethods)
-  - [Bisection Method](/NumericalAnalysis/RootFindingMethods/BisectionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/BisectionMethod/Bisection.m) )
-  - [False Position Method](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/FalsePosition.m) )
-  - [Newton Raphson's Method](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/NewtonRaphson.m) )
+  - [Bisection Method](/NumericalAnalysis/RootFindingMethods/BisectionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/BisectionMethod/bisection_method.m), [Python](/NumericalAnalysis/RootFindingMethods/BisectionMethod/bisection_method.py) )
+  - [False Position Method](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/false_position_method.m), [Python](/NumericalAnalysis/RootFindingMethods/FalsePositionMethod/false_position_method.py) )
+  - [Newton Raphson's Method](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/newton_raphson's_method.m), [Python](/NumericalAnalysis/RootFindingMethods/NewtonRaphsonMethod/newton_raphson's_method.py) )
   
 - [System of Linear Equations](/NumericalAnalysis/SystemOfLinearEquations)
   - [Gauss Jacobi Method](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussJacobiMethod/GaussJacobi.m) )
   - [Gauss Seidel Method](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/GaussSeidel.m) )
+  - [Gaussian Elimination Method](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/) ( [C](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/gaussian_elimination.c), [Python](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/gaussian_elimination.py) )
 
 
 ## Contributors (Direct and Indirect)
+- [Rakibul Ranak](https://github.com/RakibulRanak)
 - [Mehedi Hasan Rumi](https://github.com/mhRumi)
 - [Shaswata Das](https://github.com/shaswata56/)
-- [Rakibul Ranak](https://github.com/RakibulRanak)
+- [Rafiul Islam](https://github.com/rafiulgits)
 
 ## License
 [GNU GENERAL PUBLIC LICENSE](/LICENSE)
