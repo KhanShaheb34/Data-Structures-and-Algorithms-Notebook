@@ -67,8 +67,8 @@
 ### Numerical Analysis
 - [Differential Equations](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/NumericalAnalysis/DifferentialEquations)
   - [Eular's Method](/NumericalAnalysis/DifferentialEquations/EularsMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/EularsMethod/euler_method.m), [Python](/NumericalAnalysis/DifferentialEquations/EularsMethod/euler_method.py) )
-  - [Runge Kutta Method](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/) ( [Octave/Matlab(2nd Order)](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/runga_kutta_2nd_order.m), [Python(4th Order)](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/runga_kutta_4th_order.py) )
-  - [Euler's Method and Runge Kutta Method Visualization](/NumericalAnalysis/DifferentialEquations/Visualization/euler__runga_kutta__visualization.py) ( [Python](/NumericalAnalysis/DifferentialEquations/Visualization/)  )
+  - [Runge Kutta Method](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/) ( [Octave/Matlab(2nd Order)](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/runga_kutta_2nd_order.m), [Python(4th Order)](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/runga_kutta_4rth_order.py) )
+  - [Euler's Method and Runge Kutta Method Visualization](/master/NumericalAnalysis/DifferentialEquations/Visualizations) ( [Python](/NumericalAnalysis/DifferentialEquations/Visualizations/euler__runga_kutta__visualization.py)  )
   
 - [Root Finding Methods](/NumericalAnalysis/RootFindingMethods)
   - [Bisection Method](/NumericalAnalysis/RootFindingMethods/BisectionMethod/) ( [Octave/Matlab](/NumericalAnalysis/RootFindingMethods/BisectionMethod/bisection_method.m), [Python](/NumericalAnalysis/RootFindingMethods/BisectionMethod/bisection_method.py) )
