@@ -66,7 +66,7 @@
   
 ### Numerical Analysis
 - [Differential Equations](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/tree/master/NumericalAnalysis/DifferentialEquations)
-  - [Eular's Method](/NumericalAnalysis/DifferentialEquations/EularsMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/EularsMethod/euler_method.m), [Python](/NumericalAnalysis/DifferentialEquations/EularsMethod/euler_method.py) )
+  - [Euler's Method](/NumericalAnalysis/DifferentialEquations/EulerMethod/) ( [Octave/Matlab](/NumericalAnalysis/DifferentialEquations/EulerMethod/euler_method.m), [Python](/NumericalAnalysis/DifferentialEquations/EulerMethod/euler_method.py) )
   - [Runge Kutta Method](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/) ( [Octave/Matlab(2nd Order)](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/runga_kutta_2nd_order.m), [Python(4th Order)](/NumericalAnalysis/DifferentialEquations/RungeKuttaMethod/runga_kutta_4rth_order.py) )
   - [Euler's Method and Runge Kutta Method Visualization](/master/NumericalAnalysis/DifferentialEquations/Visualizations) ( [Python](/NumericalAnalysis/DifferentialEquations/Visualizations/euler__runga_kutta__visualization.py)  )
   
