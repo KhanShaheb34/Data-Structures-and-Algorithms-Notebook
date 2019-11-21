@@ -1,3 +1,8 @@
+/**
+ * @author Rafiul Islam
+ * @url https://github.com/rafiulgits
+ */
+
 #include<stdio.h>
 
 const int range = 11;
