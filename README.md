@@ -52,6 +52,7 @@
   - [Bubble Sort](/Sorting/BubbleSort/) ( [C](/Sorting/BubbleSort/bubbleSort.c) )
   - [Merge Sort](/Sorting/MergeSort/) ( [C++](/Sorting/MergeSort/mergeSort.cpp) )
   - [Quick Sort](/Sorting/QuickSort/) ( [C++](/Sorting/QuickSort/quickSort.cpp) )
+  - [Selection Sort](/Sorting/SelectionSort/) ( [Java](/Sorting/SelectionSort/selectionSort.java) )
 
 
 ### Data Structures
