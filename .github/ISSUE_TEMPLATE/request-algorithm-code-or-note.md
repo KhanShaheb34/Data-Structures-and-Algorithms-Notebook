@@ -1,19 +1,13 @@
 ---
 name: Request Algorithm Code or Note
-about: কোন অ্যালগরিদম এর কোড বা নোট এর জন্য রিকুয়েস্ট করুন
+about: Request any algorithm or note
 title: Request Code/Note
-labels: ''
+labels: ""
 assignees: KhanShaheb34
-
 ---
 
-<!--- আগে চেক করে নিন অ্যালগরিদম টির কোড বা নোট আগে থেকেই করা আছে কি না --->
+#### Name of the algorithm
 
-####  অ্যালগরিদম এর নামঃ 
-<!---  এখানে অ্যালগরিদম এর নাম লিখুন --->
+#### What do you want
 
-#### কি চান (কোড / নোট / উভয়ই / ইমপ্রুভমেন্ট):
-
-
-#### কমেন্টঃ (অপশনাল)  
-<!--- আরও কিছু বলার থাকলে এখানে লিখুন --->
+#### Comment (Optional)

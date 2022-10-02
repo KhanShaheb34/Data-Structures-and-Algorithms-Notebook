@@ -1,23 +1,13 @@
 ---
 name: Other Issues
-about: 'কোন অ্যালগরিদম এর কোড বা নোট এ কোন সমস্যা থাকলে এখানে সাবমিট করুন '
+about: Change, fix an existing note/code
 title: Other Issue
 labels: bug
 assignees: KhanShaheb34
-
 ---
 
-####  অ্যালগরিদম এর নামঃ 
-<!---  এখানে অ্যালগরিদম এর নাম লিখুন --->
+#### Name of the algorithm
 
+#### Issue
 
-#### ইস্যুঃ
-<!--- কোথায় সমস্যা আছে তা লিখুন --->
-<!---
-কোন ছবি, কোড, টেবিল বা অন্য কোন মার্কডাউন আইটেম কিভাবে অ্যাড করবেন তা এখান থেকে দেখুনঃ 
-https://guides.github.com/features/mastering-markdown/
---->
-
-
-#### কমেন্টঃ (অপশনাল)  
-<!--- আরও কিছু বলার থাকলে এখানে লিখুন --->
+#### Comment (Optional)

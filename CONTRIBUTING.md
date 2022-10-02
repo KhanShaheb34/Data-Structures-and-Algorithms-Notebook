@@ -1,24 +1,24 @@
 # Contributing to this repository
 
-### কিভাবে কন্ট্রিবিউট করবেন? 
-  * রিপোজিটরি টাকে ফর্ক করুন। 
-  * নিজের ইচ্ছেমত পরিবর্তন, পরিবর্ধন বা পরিমার্জন করুন। 
-  * পুল রিকুয়েস্ট করুন। 
-  * কোডে ভুল না থাকলে এবং সঠিক হলে অথবা কোন নোট লিখলে সেটি সঠিক হলে তা মার্জ করা হবে। 
+## How to contribute?
 
-[কাজগুলো কঠিন মনে হলে, এখান থেকে সহজে কন্ট্রিবিউট করতে পারবেন! ][1]
+- Fork this repository
+- Change as you like
+- Create a pull request
+- Code will be merged if it's working
 
- 
-### কি কি করতে পারেন? 
-  * নতুন কোন অ্যালগরিদম লিখতে পারেন। 
-  * কোন অ্যালগরিদম অলরেডি লিখা আছে, সেটাকে অন্য প্রোগ্রামিং ল্যাঙ্গুয়েজ এ লিখতে পারেন। 
-  * কোন কোড ভুল মনে হলে বা ইনইফিশয়েন্ট মনে হলে সেটি পরিমার্জন বা পরিবর্তন করতে পারেন। 
-  * কোন অ্যালগরিদম এর জন্য নোট লিখতে পারেন। 
-  * অন্য কোন নোট পরিবর্তন, পরিমার্জন, বা পরিবর্ধন করতে পারেন (অবশ্যই যথেষ্ট রিজন্যাবল হলে)। 
+[Or you can easily contribute from here.][1]
 
-আপনার সকল প্রকার কন্ট্রিবিউশন এর জন্য ধন্যবাদ! 
+## What to contribute?
 
+- Write code for a algorithm
+- Write code in a different language for an algorithm
+- Found bug in any code? Fix it.
+- Write a note for an algorithm
+- Change, fix an existing note.
 
+Thank you for your contribution.
 
 <!--- Links --->
-[1]:https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/issues/new/choose
+
+[1]: https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook-Bangla/issues/new/choose

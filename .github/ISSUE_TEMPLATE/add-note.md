@@ -1,21 +1,13 @@
 ---
 name: Add Note
-about: যেকোনো অ্যালগোরিদম এর জন্য নোট সাবমিট করুন
+about: Write a note for an algorithm
 title: Add Note for an Existing Algorithm
 labels: AddNote, documentation
 assignees: KhanShaheb34
-
 ---
 
-<!--- Try to write the notes in Bengali --->
+#### Name of the algorithm
 
-####  অ্যালগরিদম এর নামঃ 
-<!---  এখানে অ্যালগরিদম এর নাম লিখুন --->
+#### Note
 
-
-#### নোটঃ
-<!--- এখানে নোট লিখুন --->
-
-
-#### কমেন্টঃ (অপশনাল)  
-<!--- আরও কিছু বলার থাকলে এখানে লিখুন --->
+#### Comment (Optional)
