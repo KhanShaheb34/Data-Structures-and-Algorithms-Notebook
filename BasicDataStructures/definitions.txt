@@ -1,0 +1,93 @@
+What is an Array?
+An array is a collection of items of same data type stored at contiguous memory locations. 
+
+This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset.
+
+For simplicity, we can think of an array as a fleet of stairs where on each step is placed a value (let’s say one of your friends). Here, you can identify the location of any of your friends by simply knowing the count of the step they are on. 
+
+Is the array always of fixed size?
+In C language, the array has a fixed size meaning once the size is given to it, it cannot be changed i.e. you can’t shrink it nor can you expand it. The reason was that for expanding if we change the size we can’t be sure ( it’s not possible every time) that we get the next memory location to us for free. The shrinking will not work because the array, when declared, gets memory statically allocated, and thus compiler is the only one that can destroy it.
+
+Types of indexing in an array: 
+0 (zero-based indexing): The first element of the array is indexed by a subscript of 0.
+1 (one-based indexing): The first element of the array is indexed by the subscript of 1.
+n (N-based indexing): The base index of an array can be freely chosen. Usually, programming languages allowing n-based indexing also allow negative index values, and other scalar data types like enumerations, or characters may be used as an array index.
+
+How an Array is initialized?
+By default the array is uninitialized, and no elements of the array are set to any value. However, for the proper working of the array, array initialization becomes important. Array initialization can be done by the following methods:
+
+1. Passing no value within the initializer: One can initialize the array by defining the size of the array and passing no values within the initializer.
+
+Syntax:
+
+int arr[ 5 ] = {  };
+
+2. By passing specific values within the initializer: One can initialize the array by defining the size of the array and passing specific values within the initializer. 
+
+Syntax:
+
+int arr[ 5 ] = { 1 , 2 , 3 , 4 , 5 };
+
+Note: The count of elements within the “{ }”, must be less than the size of the array 
+If the count of elements within the “{ }” is less than the size of the array, the remaining positions are considered to be ‘0’.
+
+Syntax:
+
+int arr[ 5 ] = { 1 , 2 , 3 } ;
+
+3. By passing specific values within the initializer but not declaring the size: One can initialize the array by passing specific values within the initializer and not particularly mentioning the size, the size is interpreted by the compiler.
+
+Syntax:
+
+int arr[  ] = { 1 , 2 , 3 , 4 , 5 };
+
+4. Universal Initialization: After the adoption of universal initialization in C++, one can avoid using the equals sign between the declaration and the initializer. 
+
+Syntax:
+
+int arr[ ]  { 1 , 2 , 3 , 4 , 5 };
+
+To know more about array initialization, click here.
+
+What are the different operations on the array?
+Arrays allow random access to elements. This makes accessing elements by position faster. Hence operation like searching, insertion, and access becomes really efficient. Array elements can be accessed using the loops.
+
+1. Insertion in Array:
+
+We try to insert a value to a particular array index position, as the array provides random access it can be done easily using the assignment operator.
+
+Pseudo Code:
+
+// to insert a value= 10 at index position 2;
+
+arr[ 2 ] = 10;
+
+Time Complexity: 
+
+O(1) to insert a single element
+O(N) to insert all the array elements [where N is the size of the array]
+2. Access elements in Array:
+
+Accessing array elements become extremely important, in order to perform operations on arrays.
+
+Pseudo Code:
+
+// to access array element at index position 2, we simply can write
+
+return arr[ 2 ] ;
+
+Time Complexity: O(1)
+
+3. Searching in Array: 
+
+We try to find a particular value in the array, in order to do that we need to access all the array elements and look for the particular value.
+
+Pseudo Code:
+
+// searching for value 2 in the array;
+
+Loop from i = 0 to 5:
+    check if  arr[i] = 2:
+        return true;
+
+Time Complexity: O(N), where N is the size of the array.
