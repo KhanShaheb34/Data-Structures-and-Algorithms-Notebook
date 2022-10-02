@@ -54,10 +54,12 @@ Or you can fork the repository and contribute as you wish! For more details chec
   - [Linear Search](/Searching/LinearSearch/) ( [C](/Searching/LinearSearch/linearSearch.c) )
 
 - [Sorting](/Sorting)
-  - [Bubble Sort](/Sorting/BubbleSort/) ( [C](/Sorting/BubbleSort/bubbleSort.c) )
+  - [Bubble Sort](/Sorting/BubbleSort/) ( [C](/Sorting/BubbleSort/bubbleSort.c), [Java](/Sorting/BubbleSort/bubble_sort.java) )
+  - [Cyclic Sort](/Sorting/Cyclic%20sort/) ( [Java](/Sorting/Cyclic%20sort/cyclic_sort.java) )
+  - [Insertion Sort](/Sorting/Insertion%20sort/) ( [Java](/Sorting/Insertion%20sort/insertion_sort.java) )
   - [Merge Sort](/Sorting/MergeSort/) ( [C++](/Sorting/MergeSort/mergeSort.cpp) )
   - [Quick Sort](/Sorting/QuickSort/) ( [C++](/Sorting/QuickSort/quickSort.cpp) )
-  - [Selection Sort](/Sorting/SelectionSort/) ( [Java](/Sorting/SelectionSort/selectionSort.java) )
+  - [Selection Sort](/Sorting/SelectionSort/) ( [Java](/Sorting/SelectionSort/selectionSort.java), [Java](/Sorting/SelectionSort/selection_sort.java) )
 
 ### Data Structures
 
