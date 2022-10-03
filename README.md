@@ -71,6 +71,7 @@ Or you can fork the repository and contribute as you wish! For more details chec
 - [Trees](/Trees)
   - [Binary Search Tree](/Trees/BinarySearchTree/) ( [JAVA](/Trees/BinarySearchTree/Java) )
   - [Trie](/Trees/Trie/) ( [C++](/Trees/Trie/Trie.cpp) )
+  - [Hash Table](/Trees/HashTable/) ( [C](/Trees/HashTable/HashTable.c) )
 
 ### Numerical Analysis
 
