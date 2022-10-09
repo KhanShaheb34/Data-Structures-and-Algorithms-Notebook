@@ -725,7 +725,7 @@ def refine_detections_graph(rois, probs, deltas, window, config):
     # 1. Prepare variables
     pre_nms_class_ids = tf.gather(class_ids, keep)
     pre_nms_scores = tf.gather(class_scores, keep)
-    pre_nms_rois = tf.gather(refined_rois,   keep)
+    pre_nms_rois = tf.gather(refined_rois, keep)
     unique_pre_nms_class_ids = tf.unique(pre_nms_class_ids)[0]
 
     def nms_keep_map(class_id):
@@ -1804,7 +1804,7 @@ def data_generator(dataset, config, shuffle=True, augment=False, augmentation=No
                 b = 0
         except (GeneratorExit, KeyboardInterrupt):
             raise
-        except:
+        except Exception as e:
             # Log it and skip the image
             logging.exception("Error processing image {}".format(
                 dataset.image_info[image_id]))
@@ -2163,7 +2163,7 @@ class MaskRCNN():
         self.keras_model._losses = []
         self.keras_model._per_input_losses = {}
         loss_names = [
-            "rpn_class_loss",  "rpn_bbox_loss",
+            "rpn_class_loss", "rpn_bbox_loss",
             "mrcnn_class_loss", "mrcnn_bbox_loss", "mrcnn_mask_loss"]
         for name in loss_names:
             layer = self.keras_model.get_layer(name)
@@ -2658,12 +2658,12 @@ class MaskRCNN():
         """Returns a list of layers that have weights."""
         layers = []
         # Loop through all layers
-        for l in self.keras_model.layers:
+        for layer in self.keras_model.layers:
             # If layer is a wrapper, find inner trainable layer
-            l = self.find_trainable_layer(l)
+            layer = self.find_trainable_layer(layer)
             # Include layer if it has weights
-            if l.get_weights():
-                layers.append(l)
+            if layer.get_weights():
+                layers.append(layer)
         return layers
 
     def run_graph(self, images, outputs, image_metas=None):
