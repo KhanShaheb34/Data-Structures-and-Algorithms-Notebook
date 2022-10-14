@@ -4,22 +4,20 @@ using namespace std;
 
 int partition(int arr[], int start, int end)
 {
-
-	int pivot = arr[start];
-
-	int count = 0;
+        int pivot = arr[start];
+        int count = 0;
 	for (int i = start + 1; i <= end; i++) {
 		if (arr[i] <= pivot)
 			count++;
 	}
-
+//ghrjk
 	// Giving pivot element its correct position
 	int pivotIndex = start + count;
 	swap(arr[pivotIndex], arr[start]);
 
 	// Sorting left and right parts of the pivot element
 	int i = start, j = end;
-
+//utkae
 	while (i < pivotIndex && j > pivotIndex) {
 
 		while (arr[i] <= pivot) {
@@ -37,14 +35,14 @@ int partition(int arr[], int start, int end)
 
 	return pivotIndex;
 }
-
+//utkarsh
 void quickSort(int arr[], int start, int end)
 {
-
+//jwfgrg
 	// base case
 	if (start >= end)
 		return;
-
+//utkarsh
 	// partitioning the array
 	int p = partition(arr, start, end);
 
@@ -54,18 +52,14 @@ void quickSort(int arr[], int start, int end)
 	// Sorting the right part
 	quickSort(arr, p + 1, end);
 }
-
 int main()
 {
-
-	int arr[] = { 9, 3, 4, 2, 1, 8 };
+        int arr[] = { 9, 3, 4, 2, 1, 8 };
 	int n = 6;
-
-	quickSort(arr, 0, n - 1);
-
-	for (int i = 0; i < n; i++) {
+        quickSort(arr, 0, n - 1);
+        for (int i = 0; i < n; i++) {
 		cout << arr[i] << " ";
 	}
-
-	return 0;
+        return 0;
+//done
 }
