@@ -88,7 +88,7 @@ Or you can fork the repository and contribute as you wish! For more details chec
   - [Gauss Seidel Method](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/) ( [Octave/Matlab](/NumericalAnalysis/SystemOfLinearEquations/GaussSeidelMethod/GaussSeidel.m) )
   - [Gaussian Elimination Method](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/) ( [C](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/gaussian_elimination.c), [Python](/NumericalAnalysis/SystemOfLinearEquations/GaussianElimination/gaussian_elemination.py) )
 
-## Contributors (Direct and Indirect)
+## Contributors
 
 <a href="https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=KhanShaheb34/Data-Structures-and-Algorithms-Notebook&anon=1" />
