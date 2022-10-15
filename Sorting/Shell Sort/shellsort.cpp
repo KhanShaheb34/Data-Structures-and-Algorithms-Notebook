@@ -22,9 +22,15 @@ void printArray(int array[], int size){
 }
 
 int main() {
-  int data[]= {9, 8, 3, 7, 5, 6, 4, 1};
-  int size=sizeof(data)/sizeof(data[0]);
-  shellSort(data, size);
+  int* array;
+  int size;
+  cout<<"Enter size of the array to sorted:"<<endl;
+  cin>>size;
+  array=new int[size];
+  cout<<"Enter "<<size<<" elements:"<<endl;
+  for(int i=0;i<size;i++)
+    cin>>array[i];
+  shellSort(array, size);
   cout<<"Sorted array:"<<endl;
-  printArray(data,size);
+  printArray(array,size);
 }
