@@ -1,11 +1,10 @@
 import java.util.*;
 
-class Search {
+class InterpolationSearch {
 
 	// If x is present in arr[0..n-1], then returns
 	// index of it, else returns -1.
-	public static int interpolationSearch(int arr[], int lo,
-										int hi, int x)
+	public static int interpolationSearch(int arr[], int lo, int hi, int x)
 	{
 		int pos;
 
@@ -16,23 +15,18 @@ class Search {
 
 			// Probing the position with keeping
 			// uniform distribution in mind.
-			pos = lo
-				+ (((hi - lo) / (arr[hi] - arr[lo]))
-					* (x - arr[lo]));
-
+			pos = lo + (((hi - lo) / (arr[hi] - arr[lo])) * (x - arr[lo]));
 			// Condition of target found
 			if (arr[pos] == x)
 				return pos;
 
 			// If x is larger, x is in right sub array
 			if (arr[pos] < x)
-				return interpolationSearch(arr, pos + 1, hi,
-										x);
+				return interpolationSearch(arr, pos + 1, hi, x);
 
 			// If x is smaller, x is in left sub array
 			if (arr[pos] > x)
-				return interpolationSearch(arr, lo, pos - 1,
-										x);
+				return interpolationSearch(arr, lo, pos - 1, x);
 		}
 		return -1;
 	}
