@@ -2,7 +2,6 @@
 //This is an approach to find the largest sum of the sub-array in O(n) time complexity.
 #include<bits/stdc++.h>
 using namespace std;
-
 //This is the function for Kadane's Algorithm
 int kadaneAlgo(int *arr,int n){
 	int sum = INT_MIN, curr_sum = 0;
@@ -14,7 +13,6 @@ int kadaneAlgo(int *arr,int n){
 	}
 	return sum;
 }
-
 int main(){
 	//This is the code for input-output operations through files
 	/*#ifndef ONLINE_JUDGE
