@@ -6,7 +6,6 @@ using namespace std;
 int kadaneAlgo(int *arr,int n){
 	int sum = INT_MIN, curr_sum = 0;
 	for(int i=0;i<n;i++){
-
 		curr_sum += arr[i];
 		if(curr_sum > sum)	sum = curr_sum;
 		if(curr_sum < 0)	curr_sum = 0;
