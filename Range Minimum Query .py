@@ -27,7 +27,7 @@ def preprocess(arr, n):
 	# Initialize lookup[][] for the
 	# intervals with length 1
 	for i in range(n):
-		lookup[i][i] = i;
+		lookup[i][i] = i
 
 	# Fill rest of the entries in
 	# bottom up manner
@@ -48,7 +48,7 @@ def RMQ(arr, n, q, m):
 
 	# Fill lookup table for
 	# all possible input queries
-	preprocess(arr, n);
+	preprocess(arr, n)
 
 	# One by one compute sum of
 	# all queries
@@ -57,7 +57,7 @@ def RMQ(arr, n, q, m):
 		# Left and right boundaries
 		# of current range
 		L = q[i].L
-		R = q[i].R;
+		R = q[i].R
 
 		# Print sum of current query range
 		print("Minimum of [" + str(L) + ", " +
@@ -74,6 +74,6 @@ if __name__ == "__main__":
 		Query(4, 7),
 		Query(7, 8)]
 	m = len(q)
-	RMQ(a, n, q, m);
+	RMQ(a, n, q, m)
 
 # This code is contributed by Rutvik_56
