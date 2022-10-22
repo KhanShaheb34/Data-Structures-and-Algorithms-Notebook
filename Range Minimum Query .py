@@ -38,9 +38,9 @@ def preprocess(arr, n):
 			# we compare minimum
 			# of arr[lookup[0][3]] with arr[4].
 			if (arr[lookup[i][j - 1]] < arr[j]):
-				lookup[i][j] = lookup[i][j - 1];
+				lookup[i][j] = lookup[i][j - 1]
 			else:
-				lookup[i][j] = j;
+				lookup[i][j] = j
 
 # Prints minimum of given m
 # query ranges in arr[0..n-1]
