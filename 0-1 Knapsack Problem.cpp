@@ -11,7 +11,7 @@ int max(int a, int b) { return (a > b) ? a : b; }
 // can be put in a knapsack of capacity W
 int knapSack(int W, int wt[], int val[], int n)
 {
-
+//blank
 	// Base Case
 	if (n == 0 || W == 0)
 		return 0;
