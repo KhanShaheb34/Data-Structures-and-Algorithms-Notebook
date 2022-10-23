@@ -7,5 +7,4 @@ int main(){
     cout<<a<<" is not power of 2"<<endl;
     else
     cout<<a<<" is power of 2"<<endl;
-
 }
