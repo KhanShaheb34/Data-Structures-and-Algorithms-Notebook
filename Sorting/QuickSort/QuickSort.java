@@ -1,6 +1,6 @@
 import java.io.*;
 
-class GFG {
+class QuickSort {
 
 	// A utility function to swap two elements
 	static void swap(int[] arr, int i, int j)
