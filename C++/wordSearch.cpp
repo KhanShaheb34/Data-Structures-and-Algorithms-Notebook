@@ -1,28 +1,56 @@
-class Solution {
-public:
-    bool solve(vector<vector<char>>& board, int i, int j, int ind, string& word, int n, int m){
-        if(ind == word.size()) return true;
-        if(i<0 || j<0 || i>=n || j>=m || word[ind]!=board[i][j])
-            return false;
-        char temp=board[i][j];
-        board[i][j]='#';
-        bool ans =  solve(board, i+1, j, ind+1, word, n, m) || 
-                    solve(board, i, j+1, ind+1, word, n, m) ||
-                    solve(board, i-1, j, ind+1, word, n, m) ||
-                    solve(board, i, j-1, ind+1, word, n, m);
-                board[i][j]=temp;
-        return ans;
-    }
-    bool exist(vector<vector<char>>& board, string word) {
-        int n=board.size(), m=board[0].size();
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if(board[i][j]==word[0]){
-                    if(solve(board, i, j, 0, word, n, m))
-                        return true;
-                }
-            }
-        }
-        return false;
-    }
-};
+#include <bits/stdc++.h>
+using namespace std;
+#define r 4
+#define c 5
+
+bool findmatch(char mat[r], string pat, int x, int y,
+			int nrow, int ncol, int level)
+{
+	int l = pat.length();
+	if (level == l)
+		return true;
+
+	if (x < 0 || y < 0 || x >= nrow || y >= ncol)
+		return false;
+	if (mat[x][y] == pat[level]) {
+		char temp = mat[x][y];
+		mat[x][y] = '#';
+        bool res = findmatch(mat, pat, x - 1, y, nrow, ncol, level + 1) |
+				findmatch(mat, pat, x + 1, y, nrow, ncol, level + 1) |
+				findmatch(mat, pat, x, y - 1, nrow, ncol, level + 1) |
+				findmatch(mat, pat, x, y + 1, nrow, ncol, level + 1);
+        mat[x][y] = temp;
+		return res;
+	}
+	else
+		return false;
+}
+
+bool checkMatch(char mat[r], string pat, int nrow, int ncol)
+{
+	int l = pat.length();
+	if (l > nrow * ncol)
+		return false;
+	for (int i = 0; i < nrow; i++) {
+		for (int j = 0; j < ncol; j++) {
+			if (mat[i][j] == pat[0])
+				if (findmatch(mat, pat, i, j, nrow, ncol, 0))
+					return true;
+		}
+	}
+	return false;
+}
+
+int main()
+{
+	char grid[r] = { "axmy",
+						"bgdf",
+						"xeet",
+						"raks" };
+
+	if (checkMatch(grid, "geeks", r, c))
+		cout << "Yes";
+	else
+		cout << "No";
+return 0;
+}
