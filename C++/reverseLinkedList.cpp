@@ -30,7 +30,6 @@ node *reverse(node *&head)
 // recursive approach
 node *reverseRecursive(node *&head)
 {
-
     // base condition
     if (head == NULL || head->next == NULL)
     {
@@ -66,7 +65,6 @@ node *reverseK(node *&head, int k)
 }
 void insertAtTail(node *&head, int val)
 {
-
     node *newNode = new node(val); // created a  new node;
     if (head == NULL)
     {
@@ -85,7 +83,6 @@ void insertAtTail(node *&head, int val)
 
 void display(node *head)
 {
-
     if (head == NULL)
     {
         cout << "NULL" << endl;
